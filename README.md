@@ -7,7 +7,7 @@ Alpine version: 3.15.0
 # Usage
 
 ```
-docker run --rm jorgeuos/alpine-git-curl version
+docker run --rm jorgeuos/alpine-git-curl git version
 docker run --rm jorgeuos/alpine-git-curl curl https://www.google.com
 ```
 
